@@ -91,3 +91,5 @@ Generated documentation for gfw.press.
 # PR Merge: 2025-10-15 - fix/merge-2405
 
 # PR Merge: 2025-10-15 - feature/merge-8772
+
+# PR Merge: 2025-10-15 - refactor/merge-3011
