@@ -65,3 +65,5 @@ Generated documentation for gfw.press.
 # PR Merge: 2025-10-15 - enhancement/merge-9217
 
 # PR Merge: 2025-10-15 - refactor/merge-8438
+
+# PR Update: 2025-10-15 - docs/update-2922
